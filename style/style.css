@@ -1,0 +1,116 @@
+/* font aweomer icons link  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+/* common and utilities styles  */
+body {
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+/* header  */
+.button {
+    background-color: #E76F51;
+    color: white;
+}
+
+.header-bg {
+    background-color: #264653;
+    height: 100%;
+    padding-bottom: 109px;
+}
+.banner-info-top {
+    size: 16px;
+    font-weight: 300;
+}
+.banner-info {
+    size: 14px;
+    font-weight: 300;
+}
+.banner-text {
+    width: 100%;
+}
+.banner-img{
+    margin-top: 50px;
+}
+
+.banner-img img{
+    width: 75%;
+}
+
+/* featured  */
+.featured-title {
+    font-size: 55px;
+    margin-top: 100px;
+
+}
+
+.featured-img {
+    filter: grayscale(100%);
+}
+/* latest news  */
+
+.latest-news-title {
+    margin: 100px 0;
+    font-size: 55px;
+}
+
+.latest-news-btn {
+    color: orangered;
+    border: 1px solid orangered;
+     background-color: #fff;
+
+}
+
+/* happy clients says  */
+
+.client-title {
+    font-size: 55px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+.client-title span {
+    color: #E76F51;
+}
+
+.user-img{
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
+
+.user-3 {
+   border: 5px solid gray;
+}
+
+/* freequently asked questions  */
+
+.faq-title {
+    font-size: 55px;
+    margin-bottom: 100px;
+}
+.faq-title span{
+    color: #E76F51;
+    
+}
+.faq {
+    margin: 250px 0;
+}
+
+.faq-img img {
+    width: 80%;
+}
+/* regional office  */
+.regional-tittle {
+    font-size: 50px;
+    margin: 100px 0;
+}
+/* upcoming models  */
+.upcoming-title {
+    font-size: 55px;
+    margin: 100px 0;
+}
+
+/* footer  */
+footer {
+    background-color: #0B0D17;
+}
